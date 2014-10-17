@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[due:home|Door43 (due)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-due|d43-due repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-due/archive/master.zip|d43-due.zip]]
+
+**Recent Changes**
+{{changes>ns = due}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/due|Ethnologue data]]
+
